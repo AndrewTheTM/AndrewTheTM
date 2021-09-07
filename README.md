@@ -8,4 +8,4 @@ I'm Andrew. I'm a consultant at [RSG, Inc](https://rsginc.com/) where I build tr
 - 🏃 I run a lot
 - 🍺 I brew beer
 - 📻 KE8P on amateur radio 
-
+- 🐦[Twitter](https://www.twitter.com/AndrewTheTM)
