@@ -14,4 +14,5 @@ I'm a consultant at [RSG, Inc](https://rsginc.com/) where I build transportation
 - 🕸️ [Siliconcreek blog](https://www.siliconcreek.net)
 - 🏃 I run a lot
 - 🍺 I brew beer
+- 🎸 I play bass
 - 📻 KE8P on amateur radio 
