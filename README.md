@@ -7,7 +7,7 @@
 </p>
 <br />
 
-I'm a consultant at [RSG, Inc](https://rsginc.com/) where I build transportation modeling solutions. I'm also a member of the Transportation Research Board Standing Committees on [Travel Survey Methods](https://www.travelsurveymethods.org/) and Planning Analysis and Application (formerly [Transportation Planning Applications](https://trbappcon.org/), whose websites I build and maintain along with the [Ohio Travel Demand Model User Group](https://www.otdmug.org/) website.
+I'm a consultant at [RSG, Inc](https://rsginc.com/) where I build transportation modeling solutions. I'm also a member and the webmaster of the Transportation Research Board Standing Committees on [Travel Survey Methods](https://www.travelsurveymethods.org/), and the webmaster for the [Ohio Travel Demand Model User Group](https://www.otdmug.org/) website.
 
 - 🔭 I’m currently working on multiple ActivitySim implementations
 - 😄 Pronouns: he/him/his
