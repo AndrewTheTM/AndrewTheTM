@@ -19,4 +19,3 @@ I have worked on many transporation model application projects in varying scales
 
 Aside from work, I occasionally write stuff that I think might be helpful to others at [my blog](https://www.siliconcreek.net), I run (a lot), homebrew beer, play bass, and am a licensed amateur radio operator (KE8P).
 
-[This is a test](test_file.md)
