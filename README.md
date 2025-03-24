@@ -7,7 +7,7 @@
 </p>
 <br />
 
-I'm a senior consultant at [RSG, Inc](https://rsginc.com/) where I build transportation model solutions. I'm also a member and the webmaster of the Transportation Research Board Standing Committees on [Travel Survey Methods](https://www.travelsurveymethods.org/), and the webmaster for the [Ohio Travel Demand Model User Group](https://www.otdmug.org/) website.
+I'm a senior transportation planner/engineer at [Caliper Corp](https://www.caliper.com/) where I build transportation model solutions. I'm also a member and the webmaster of the Transportation Research Board Standing Committees on [Travel Survey Methods](https://www.travelsurveymethods.org/), and the webmaster for the [Ohio Travel Demand Model User Group](https://www.otdmug.org/) website.
 
 The work I do includes:
 
