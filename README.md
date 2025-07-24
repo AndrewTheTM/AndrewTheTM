@@ -15,7 +15,7 @@ Simulation of transportation decisions made by the inhabitants of various region
 
 Data analysis and imputation for use in regional transporation simulation models, such as [imputing trucks and light commercial vehicles from location-based data](https://trid.trb.org/view/2117784), imputing and/or modeling commercial vehicle movements for multiple locations. I've also analysed data from the 2017 Great American Eclipse to prepare data that was ultimately used to plan a state's repsonse to the 2024 eclipse to ensure reasonable traffic flow.
 
-I have worked on many transporation model application projects in varying scales (from metropolitan areas to individual intersections) in multiple parts of the country (Virginia, Ohio, and Florida). 
+I have worked on many transporation model application projects in varying scales (from metropolitan areas to individual intersections) in multiple parts of the country. 
 
 Aside from work, I occasionally write stuff that I think might be helpful to others at [my blog](https://www.siliconcreek.net), I run (a lot), homebrew beer, play bass, and am a licensed amateur radio operator (KE8P).
 
